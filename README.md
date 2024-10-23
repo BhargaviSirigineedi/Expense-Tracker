@@ -155,12 +155,12 @@ bash: node server.js
 
 Here are the screenshots showing the use of each API endpoint:
 
-- **POST /transactions**: ![POST Screenshot](POST screenshot.jpg)
-- **GET /transactions**: ![GET Screenshot](GET screenshot.jpg)
-- **GET /transactions/:id**: ![GET by ID Screenshot](GET by ID screenshot.jpg)
-- **PUT /transactions/:id**: ![PUT Screenshot](PUT screenshot.jpg)
-- **DELETE /transactions/:id**: ![DELETE Screenshot](DELETE screenshot.jpg)
-- **GET /summary**: ![Summary Screenshot](Summary screenshot.jpg)
+- **POST /transactions**: ![POST Screenshot]([POST screenshot.jpg](https://github.com/BhargaviSirigineedi/Expense-Tracker/blob/main/POST%20screenshot.jpg))
+- **GET /transactions**: ![GET Screenshot]([GET screenshot.jpg](https://github.com/BhargaviSirigineedi/Expense-Tracker/blob/main/GET%20screenshot.jpg))
+- **GET /transactions/:id**: ![GET by ID Screenshot]([GET by ID screenshot.jpg](https://github.com/BhargaviSirigineedi/Expense-Tracker/blob/main/GET%20by%20ID%20screenshot.jpg))
+- **PUT /transactions/:id**: ![PUT Screenshot]([PUT screenshot.jpg](https://github.com/BhargaviSirigineedi/Expense-Tracker/blob/main/PUT%20screenshot.jpg))
+- **DELETE /transactions/:id**: ![DELETE Screenshot]([DELETE screenshot.jpg](https://github.com/BhargaviSirigineedi/Expense-Tracker/blob/main/DELETE%20screenshot.jpg))
+- **GET /summary**: ![Summary Screenshot]([Summary screenshot.jpg](https://github.com/BhargaviSirigineedi/Expense-Tracker/blob/main/Summary%20screenshot.jpg))
 
 ## Conclusion
 
