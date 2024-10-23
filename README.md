@@ -155,12 +155,12 @@ bash: node server.js
 
 Here are the screenshots showing the use of each API endpoint:
 
-- **POST /transactions**: ![POST Screenshot](path_to_post_screenshot.png)
-- **GET /transactions**: ![GET Screenshot](path_to_get_screenshot.png)
-- **GET /transactions/:id**: ![GET by ID Screenshot](path_to_get_id_screenshot.png)
-- **PUT /transactions/:id**: ![PUT Screenshot](path_to_put_screenshot.png)
-- **DELETE /transactions/:id**: ![DELETE Screenshot](path_to_delete_screenshot.png)
-- **GET /summary**: ![Summary Screenshot](path_to_summary_screenshot.png)
+- **POST /transactions**: ![POST Screenshot](POST screenshot.jpg)
+- **GET /transactions**: ![GET Screenshot](GET screenshot.jpg)
+- **GET /transactions/:id**: ![GET by ID Screenshot](GET by ID screenshot.jpg)
+- **PUT /transactions/:id**: ![PUT Screenshot](PUT screenshot.jpg)
+- **DELETE /transactions/:id**: ![DELETE Screenshot](DELETE screenshot.jpg)
+- **GET /summary**: ![Summary Screenshot](Summary screenshot.jpg)
 
 ## Conclusion
 
